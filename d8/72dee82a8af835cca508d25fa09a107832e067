@@ -1,0 +1,25 @@
+i18n/zh-CN/docusaurus-plugin-content-docs/version-4.x/sql-manual/sql-statements/table-and-view/table/CREATE-TABLE.md
+  s_8166f6ea8392cb::t_9a0558f1eba873 358
+docs/sql-manual/sql-statements/table-and-view/table/CREATE-TABLE.md
+  s_8166f6ea8392cb::t_9a0558f1eba873 357
+i18n/zh-CN/docusaurus-plugin-content-docs/current/sql-manual/sql-statements/table-and-view/table/CREATE-TABLE.md
+  s_8166f6ea8392cb::t_9a0558f1eba873 358
+versioned_docs/version-4.x/sql-manual/sql-statements/table-and-view/table/CREATE-TABLE.md
+  s_8166f6ea8392cb::t_9a0558f1eba873 357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d872dee82a8af835cca508d25fa09a107832e067",
+  "prompts": {},
+  "sessions": {
+    "s_8166f6ea8392cb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a4bd-ceaa-79a3-9608-41eba1ef1479",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "zhiqiang-hhhh <seuhezhiqiang@163.com>"
+    }
+  }
+}
